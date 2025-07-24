@@ -53,11 +53,11 @@ Let’s connect and build the future with data. 🌍📊🤖
 
 ### Big Data Tool for Analyzing the Evolution of Geolocated Sentiments on Twitter
 
-- Developed a scalable tool for analyzing and visualizing large volumes of social media data, focused on detecting disinformation and evaluating sentiments using Python, Flask, NLTK, Pandas, NumPy, and PyMongo.
+- The final degree project involved creating a full-stack web application for real-time sentiment analysis of geolocated Twitter data. The tool allows users to visualize opinions and emotions associated with different topics on an interactive map (created with Leaflet.js), identifying geographical patterns and trends. The backend, developed in Flask, handles data collection via the Twitter API, storage in MongoDB, and text processing for sentiment analysis. The frontend, built with React, provides an intuitive and reactive user interface for data visualization and filtering.
 
 ### Memecoin Volatility Prediction Tool Using Sentiment Analysis and Time Series Models
 
-- Designed advanced systems for extracting, processing, and visualizing information using tools such as Apache Spark, HDFS, Power BI, and Tableau, applying Big Data architecture principles and data engineering.
+- This project develops an advanced tool to predict the volatility of Memecoins using sentiment analysis from social media and news. By integrating emotional content from digital platforms with historical price data, the tool leverages Natural Language Processing (NLP) and machine learning algorithms to identify correlations between collective sentiment and market movements. The system includes interactive visualizations that provide valuable insights for investors, helping them make more informed decisions in highly speculative markets.
 
 ## 📧 How to Contact Me
 
